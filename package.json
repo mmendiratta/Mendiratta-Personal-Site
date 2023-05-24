@@ -22,7 +22,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "yarn install && react-scripts build",
     "start-server": "node server/index.js",
     "deploy": "aws s3 sync build/ s3://mendiratta.net --acl public-read",
     "test": "react-scripts test",
