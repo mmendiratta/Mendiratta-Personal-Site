@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Left vertical -->
+  <line x1="22" y1="24" x2="22" y2="78" stroke="#c9a227" stroke-width="5.5" stroke-linecap="round"/>
+  <!-- First M: diagonal from upper-left down to bottom-center -->
+  <line x1="22" y1="32" x2="54" y2="78" stroke="#c9a227" stroke-width="5.5" stroke-linecap="round"/>
+  <!-- Second M: diagonal from bottom-center up to top-right peak -->
+  <line x1="54" y1="78" x2="80" y2="28" stroke="#c9a227" stroke-width="5.5" stroke-linecap="round"/>
+  <!-- Right vertical from peak down -->
+  <line x1="80" y1="24" x2="80" y2="78" stroke="#c9a227" stroke-width="5.5" stroke-linecap="round"/>
+</svg>

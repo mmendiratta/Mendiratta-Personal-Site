@@ -13,6 +13,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
+  icons: { icon: "/favicon.svg" },
   title: "Manav Mendiratta",
   description:
     "Senior Software Engineer — shipping high-impact features at scale.",
